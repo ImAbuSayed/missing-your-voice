@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing Your Voice
+
+This log tracks the cryptographic history and versioning for the song **Missing Your Voice** (missing-your-voice).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:46:49.768429 | `v1` | `eac3b3ada363996a53a637efdc5b27a9915b492c53bf28325c2d0e9c1ac86a79` | `12381e2310bd09f2ebff1bbd1143749c332c856d3c028525a23783f62be5b59e` | `2026-05-29_missing-your-voice-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
